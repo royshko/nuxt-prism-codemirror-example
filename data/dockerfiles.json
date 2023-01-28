@@ -1,0 +1,6 @@
+[
+  {
+    "name": "golang1.1",
+    "content": "FROM golang:1.20 \nCOPY all"
+  }
+]
